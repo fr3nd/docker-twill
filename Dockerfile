@@ -22,3 +22,4 @@ RUN pip install \
       lxml==3.6.0 \
       twill==$TWILL_VERSION \
       pytest==$PYTEST_VERSION \
+      future==0.18.2 \
